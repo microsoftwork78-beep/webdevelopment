@@ -1,0 +1,4 @@
+<> = Opening Tag
+</ > = Closing Tag
+< /> = Self Closing Tag
+<p> = Paragraph Tag
