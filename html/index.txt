@@ -2,3 +2,4 @@
 </ > = Closing Tag
 < /> = Self Closing Tag
 <p> = Paragraph Tag
+lorem = auto generated words by ai
